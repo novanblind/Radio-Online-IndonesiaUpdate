@@ -1,8 +1,8 @@
 {
-  "build": 24,
-  "name": "0.9.15",
+  "build": 28,
+  "name": "0.9.19",
   "date": "2026-11-14",
   "size": "",
-  "changes": "Versi uji untuk mencoba alur Unduh lalu Pasang langsung di dalam aplikasi.",
+  "changes": "Versi uji berikutnya: sudah memuat perbaikan dialog Pasang setelah unduh selesai.",
   "apk": "https://github.com/novanblind/Radio-Online-IndonesiaUpdate/releases/latest/download/RadioOnlineIndonesia.apk"
 }
